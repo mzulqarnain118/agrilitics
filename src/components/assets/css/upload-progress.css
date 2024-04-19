@@ -1,0 +1,19 @@
+.table>:not(caption)>*>* {
+    /*padding: 0 0 ;*/
+    border-bottom-width: 2px
+}
+/*body.dark .progress {*/
+/*    background-color: #333333;*/
+/*    display: contents;*/
+/*}*/
+body.dark .progress {
+    background-color: #333333;
+    padding: 3px;
+}
+body.dark .form-check-input:checked {
+    padding: 5px 8px;
+}
+body.dark .form-check-input {
+    /* padding: 17px 18px;
+    margin-left: 15px; */
+}
